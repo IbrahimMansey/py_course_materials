@@ -1,6 +1,8 @@
+Python course teaching materials.
+=================
 [![Build Status](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)
 
-# Python course teaching materials.
+
 <p align="center">
   <img src="Python.svg.png" width="300" height="300" />
 </p>
